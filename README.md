@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my Portfolio website.<br>👯 I’m looking to collaborate on building some interesting full stack applications.<br>🌱 I’m currently learning Backend frameworks - NodeJs.<br>💬 Ask me about anything and everything.<br>⚡ Fun fact : If you are reading this, that means you are either a friend or a potential friend. In both cases reach out to me on LinkedIn or Email(samar.comp.sci@gmail.com). 
+🔭 I’m currently working on my Portfolio website.<br>👯 I’m looking to collaborate on building some interesting full stack applications.<br>🌱 I’m currently learning Backend frameworks - NodeJs.<br>💬 Ask me about anything and everything.<br>⚡ Fun fact : I like people who are passionate about revolutionizing world through technology.
 
 
 ## 🌐 Socials:
